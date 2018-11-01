@@ -44,7 +44,8 @@ If installed correctly, the result should look like this:
 
 we have implemented the [image2txt](https://github.com/etosworld/etos-img2txt) function , for each segmented object, an image and text file would be saved.enjoy!
 
-|![](media/out1.png) | ![](media/out1_txt.png) |
+| --- | --- |
+| ![](media/out1.png) | ![](media/out1_txt.png) |
 
 
 ### Training 
