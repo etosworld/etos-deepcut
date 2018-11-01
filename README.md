@@ -44,8 +44,7 @@ If installed correctly, the result should look like this:
 
 we have implemented the [image2txt](https://github.com/etosworld/etos-img2txt) function , for each segmented object, an image and text file would be saved.enjoy!
 
-| --- | --- |
-| ![](media/out1.png) | ![](media/out1_txt.png) |
+![](media/out1.png) ![](media/out1_txt.png)
 
 
 ### Training 
@@ -76,6 +75,10 @@ you can download the following DEXTR models, pre-trained on:
   * [PASCAL + SBD](https://data.vision.ee.ethz.ch/kmaninis/share/DEXTR/Downloads/models/dextr_pascal-sbd.pth), trained on PASCAL VOC Segmentation train + SBD (10582 images). Achieves mIoU of 91.5% on PASCAL VOC Segmentation val.
   * [PASCAL](https://data.vision.ee.ethz.ch/kmaninis/share/DEXTR/Downloads/models/dextr_pascal.pth), trained on PASCAL VOC Segmentation train (1464 images). Achieves mIoU of 90.5% on PASCAL VOC Segmentation val.
   * [COCO](https://data.vision.ee.ethz.ch/kmaninis/share/DEXTR/Downloads/models/dextr_coco.pth), trained on COCO train 2014 (82783 images). Achieves mIoU of 87.8% on PASCAL VOC Segmentation val.
+
+### TODO
+
+- to support deep extreme video cut
 
 ### Citation
 
