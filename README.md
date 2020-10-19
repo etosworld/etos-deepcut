@@ -1,7 +1,7 @@
 
 ### etos-deepcut 
 
-A tool for object segmentation from extreme points. for [ETOS](https://etos.world) Ecosystem.
+A tool for object segmentation from extreme points.
 
 ### About Deep Extreme Cut (DEXTR)
 
