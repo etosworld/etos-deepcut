@@ -3,3 +3,5 @@ opencv-python
 pillow
 scikit-learn
 scikit-image
+torch
+torchvision
